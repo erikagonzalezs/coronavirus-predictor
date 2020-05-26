@@ -17,8 +17,10 @@ install.packages("phaseR")
 
 In Rstudio, select all the lines of the code, press ctrl + enter to run the project. Select the model for which you want to simulate, either SIS or SIR. Press calculate and watch the results.
 
-# DEVELOPERS
+# Developers
 
 Andrés Camilo Giraldo Gil: https://github.com/AndresCamiloGiraldo
+
 Erika Alejandra González Solano: (me)
+
 Leonel Steven Londoño Londoño: https://github.com/LeonelStevenLondono
